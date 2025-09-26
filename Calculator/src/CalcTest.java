@@ -8,6 +8,6 @@ public class CalcTest {
         System.out.println(calculator.add(a,b,c));
         System.out.println(calculator.subtrack(a,c));
 
-        //testing same commits
+        //testing same commits and more
     }
 }
