@@ -1,19 +1,25 @@
-public class Calculator {
+void main() {
+    Counter counter = new Counter();
+    Questioner questioner = new Questioner();
 
-    double add (double a,double b){
-        return a+b;
+    Scanner scanner = new Scanner(System.in);
+
+    questioner.askFirstNumber();
+    double firstNumber = scanner.nextDouble();
+    scanner.nextLine();
+
+    questioner.askWhatToDo();
+    String choice = scanner.nextLine();
+
+    questioner.askSecondNumber();
+    double secondNumber = scanner.nextDouble();
+
+    switch (choice) {
+        case "+" -> questioner.answer(counter.add(firstNumber, secondNumber));
+        case "-" -> questioner.answer(counter.minus(firstNumber, secondNumber));
+        case "*" -> questioner.answer(counter.multiply(firstNumber, secondNumber));
+        case "/" -> questioner.answer(counter.divide(firstNumber, secondNumber));
     }
 
-    double add(double a,double b ,double c){
-        return a+b+c;
-    }
-
-    double subtrack(double a,double b){
-        return a-b;
-    }
-
-    double subtrack(double a, double b, double c){
-        return a-b-c;
-    }
 
 }
