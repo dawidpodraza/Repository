@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enkapsulacja/Enkapsulacja.iml" filepath="$PROJECT_DIR$/Enkapsulacja/Enkapsulacja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NextOne/NextOne.iml" filepath="$PROJECT_DIR$/NextOne/NextOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Petle/Petle.iml" filepath="$PROJECT_DIR$/Petle/Petle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointProgram/PointProgram.iml" filepath="$PROJECT_DIR$/PointProgram/PointProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice.iml" filepath="$PROJECT_DIR$/Tablice/Tablice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabliceWielowymiarowe/TabliceWielowymiarowe.iml" filepath="$PROJECT_DIR$/TabliceWielowymiarowe/TabliceWielowymiarowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Units/Units.iml" filepath="$PROJECT_DIR$/Units/Units.iml" />
+    </modules>
+  </component>
+</project>

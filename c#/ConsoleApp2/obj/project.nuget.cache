@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b0x4fCsOgPQ=",
+  "dgSpecHash": "RZHzkNaYP6s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\podra\\Repository\\c#\\ConsoleApp2\\ConsoleApp2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/dawidpodraza/Repository/c#/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/Users/dawidpodraza/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/dawidpodraza/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/dawidpodraza/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

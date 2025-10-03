@@ -40,10 +40,7 @@ class HospitalApp
 
 class Hospital
 {
-
-
-
-    Patient[] patients = new Patient[3];
+    private Patient[] patients = new Patient[3];
     int index = 0;
 
 
@@ -96,14 +93,14 @@ class Hospital
 
     class Patient
     {
-        private string firstName;
+        private string _firstName;
         private string lastName;
         private string pesel;
 
         public string FirstName
         {
-            get { return firstName; }
-            set { firstName = value; }
+            get { return _firstName; }
+            set { _firstName = value; }
 
         }
         public string LastName
@@ -118,7 +115,7 @@ class Hospital
         }
         public Patient(string firstName, string lastName, string pesel)
         {
-            this.firstName = firstName;
+            this._firstName = firstName;
             this.lastName = lastName;
             this.pesel = pesel;
         }

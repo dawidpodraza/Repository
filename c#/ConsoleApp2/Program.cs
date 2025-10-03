@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using ConsoleApp2.NewDirectory1;
+
+
+Person person = new Person("Kamil","Kowalski",35);
+Console.WriteLine(person.FirstName);
+
+
