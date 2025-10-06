@@ -1,4 +1,4 @@
-public class Tire extends Part{
+public class Tire extends Part {
     private String size;
     private double width;
 
