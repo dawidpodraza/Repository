@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89cab590-0ece-4a43-8ace-ac4016991906" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../C#/ConsoleApp2/NewDirectory1/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enkapsulacja/Enkapsulacja.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Methods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NextOne/NextOne.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petle/Petle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PointProgram/PointProgram.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tablice/Tablice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TabliceWielowymiarowe/TabliceWielowymiarowe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Units/Units.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Debug/net8.0/Exercise C#.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Exercise C#.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Exercise C#.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Exercise C#.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/Exercise C#.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ConsoleApp2/obj/project.nuget.cache" afterDir="false" />
-    </list>
+    <list default="true" id="89cab590-0ece-4a43-8ace-ac4016991906" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="33Xh1vQNKLDoCf8C6of6d3bx2l7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,6 +22,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/dawidpodraza/Repository/Java"
   }
