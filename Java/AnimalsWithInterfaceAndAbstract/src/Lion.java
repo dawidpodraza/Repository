@@ -11,6 +11,6 @@ public class Lion extends Animal {
 
     @Override
     void printInfo() {
-        System.out.println("To zwierze ma na imie "+name+" i ma rozmiar "+size);
+        System.out.println("To zwierze ma na imie "+getName()+" i ma rozmiar "+getSize());
     }
 }
