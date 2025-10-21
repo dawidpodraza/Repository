@@ -6,13 +6,14 @@ public class Main {
     static void main(String[] args) throws IOException {
         String fileName = "txtFile";
         File file = new File(fileName);
+        file.createNewFile();
+
 
         Scanner scanner= new Scanner(file);
 
-        while(scanner.hasNextLine()){
+        while(scanner.hasNextLine()) {
             System.out.println(scanner.nextLine());
+
         }
-
-
     }
 }
