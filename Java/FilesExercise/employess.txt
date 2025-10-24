@@ -1,0 +1,3 @@
+Pracownik: Ania  Nowak| Wypłata 12300.0
+Pracownik: Kamil Kowal| Wypłata 11200.0
+Pracownik: Dawid Jaki| Wypłata 13450.0
