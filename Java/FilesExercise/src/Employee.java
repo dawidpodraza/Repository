@@ -1,4 +1,4 @@
-public class Employee extends Person{
+public class Employee extends Person {
     private double salary;
 
     public Employee(String firstName, String lastName, double salary) {
@@ -9,10 +9,10 @@ public class Employee extends Person{
     @Override
     public String toString() {
         return "Pracownik:" +
-                  " "+getFirstName()+" "+ getLastName()+" | Wypłata " + salary;
+                " " + getFirstName() + " " + getLastName() + " | Wypłata " + salary;
     }
 
-    public static void askForPersonalData(){
+    public static void askForPersonalData() {
         System.out.println("Podaj imie nazwisko i wypłate");
     }
 }

@@ -1,5 +1,9 @@
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Scanner;
+
 
 public class CompanyApp {
     static void main(String[] args) {
@@ -37,9 +41,6 @@ public class CompanyApp {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
-
-
 
     }
 }
