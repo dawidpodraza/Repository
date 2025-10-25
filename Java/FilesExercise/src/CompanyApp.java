@@ -1,5 +1,4 @@
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class CompanyApp {
@@ -22,12 +21,25 @@ public class CompanyApp {
         company1.showEmployess();
 
         String employess = "employess.txt";
+        FileWriter file;
         try {
-            FileWriter file = new FileWriter(employess);
+            //Zapis do pliku
+            file = new FileWriter(employess);
             file.write(String.valueOf(company1.writePersons()));
             file.close();
+
+            // Odczyt z pliku
+            FileReader fileReader = new FileReader(employess);
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            System.out.println(bufferedReader.readAllAsString());
+            file.close();
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+
+
+
     }
 }
