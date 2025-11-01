@@ -1,30 +1,60 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+import static java.util.Arrays.sort;
+
 public class PersonDatabase {
-    private final int INITIAL_CAPACITY = 1;
+    private int INITIAL_CAPACITY = 1;
+    private int index = 0;
     private Person[] persons = new Person[INITIAL_CAPACITY];
-    private Person[] persons2;
 
 
     public void add(Person p) {
-        persons2 = Arrays.copyOf(persons,persons.length*2);
-        Arrays.fill(persons2,p);
+        if (index == persons.length) {
+            persons = Arrays.copyOf(persons, persons.length * 2);
+        }
+        persons[index] = p;
+        index++;
+    }
 
+    public void remove(Person p) {
+        for (int i = 0; i < persons.length; i++) {
+
+
+            if (persons[i].equals(p)) {
+                persons[i] = null;
+
+
+            }
+
+        }
+
+    }
+
+    public void get(int index) {
+        System.out.println("Pod indexem nr " + index + " jest: " + persons[index].toString());
+    }
+
+    public int size() {
+        int index = 0;
+        for (int i = 0; i < persons.length; i++) {
+            if (persons[i] != null) {
+                index++;
+            }
+        }
+        return index;
     }
 
     public Person[] getPersons() {
         return persons;
     }
 
-    public Person[] getPersons2() {
-        return persons2;
-    }
 
     public void printInfo() {
-        for (Person person : persons2) {
+        for (Person person : persons) {
             System.out.println(person);
         }
 
     }
+
 }
