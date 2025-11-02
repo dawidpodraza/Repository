@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\TestAppForTraining\bin\Debug\net8.0\TestAppForTraining.exe
+C:\Users\podra\Repository\c#\TestAppForTraining\bin\Debug\net8.0\TestAppForTraining.deps.json
+C:\Users\podra\Repository\c#\TestAppForTraining\bin\Debug\net8.0\TestAppForTraining.runtimeconfig.json
+C:\Users\podra\Repository\c#\TestAppForTraining\bin\Debug\net8.0\TestAppForTraining.dll
+C:\Users\podra\Repository\c#\TestAppForTraining\bin\Debug\net8.0\TestAppForTraining.pdb
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.sourcelink.json
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.dll
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\refint\TestAppForTraining.dll
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.pdb
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\TestAppForTraining.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\TestAppForTraining\obj\Debug\net8.0\ref\TestAppForTraining.dll
