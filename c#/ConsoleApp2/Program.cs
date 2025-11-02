@@ -1,9 +1,16 @@
-﻿
-using ConsoleApp2.NewDirectory1;
+﻿Console.WriteLine("Hello, World!");
 
 
-Person person = new Person("Kamil","Kowalski",35);
-Console.WriteLine(person.FirstName);
-//comment
+class NewClass
+{
+    public static  void doSomething()
+    {
+        Console.WriteLine("Metoda działa");
+    }
+    
+    
+    
+    
+}
 
 

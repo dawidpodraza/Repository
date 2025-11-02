@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Person {
+public class Person implements Comparable<Person>{
     private String firstName;
     private String lastName;
     private String pesel;
@@ -11,16 +11,6 @@ public class Person {
         this.pesel = pesel;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (!(o instanceof Person person)) return false;
-        return Objects.equals(firstName, person.firstName) && Objects.equals(lastName, person.lastName) && Objects.equals(pesel, person.pesel);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(firstName, lastName, pesel);
-    }
 
     @Override
     public String toString() {
@@ -29,5 +19,13 @@ public class Person {
                 ", lastName='" + lastName + '\'' +
                 ", pesel='" + pesel + '\'' +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Person o) {
+        if(o==null){
+            return 0;
+        }
+        return this.firstName.compareTo(o.firstName);
     }
 }
