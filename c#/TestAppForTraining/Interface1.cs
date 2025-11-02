@@ -9,6 +9,6 @@ namespace TestAppForTraining
     internal interface IEmployer
     {
         public void StartWorking();
-        
+
     }
 }
