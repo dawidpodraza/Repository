@@ -1,5 +1,3 @@
 public enum Priority {
-    HIGH,
-    MODERATE,
-    LOW
+    HIGH, MODERATE, LOW
 }

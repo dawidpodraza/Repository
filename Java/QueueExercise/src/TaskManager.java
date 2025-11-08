@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TaskManager {
     Queue<Task> tasksQueue = new PriorityQueue<>();
 
-    private void pollNextTaskByPriority(){
+    private void pollNextTaskByPriority() {
         System.out.println(tasksQueue.poll());
     }
 
@@ -13,7 +13,7 @@ public class TaskManager {
         Scanner scanner = new Scanner(System.in);
         String choice;
         do {
-            System.out.println("1 - dodaj zadanie\n2- pobierz kolejne zadanie o najwyższym priorytecie\n3- wyjdź z aplikacji");
+            System.out.println("1- dodaj zadanie\n2- pobierz kolejne zadanie o najwyższym priorytecie\n3- wyjdź z aplikacji");
             choice = scanner.nextLine();
             switch (choice) {
                 case "1" -> addNewTaskToQueue();
@@ -23,7 +23,7 @@ public class TaskManager {
         } while (true);
     }
 
-    private void addNewTaskToQueue(){
+    private void addNewTaskToQueue() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj nazwe zadania: ");
         String taskName = scanner.nextLine();
@@ -37,7 +37,7 @@ public class TaskManager {
             case "3" -> Priority.LOW;
             case null, default -> Priority.LOW;
         };
-        tasksQueue.add(new Task(taskName,taskDescription,priority));
+        tasksQueue.add(new Task(taskName, taskDescription, priority));
 
     }
 
