@@ -5,7 +5,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
-public class Main {
+public class Main{
     static void main(String[] args) {
         List<String> listOfNames = new ArrayList<>(List.of("Adam", "Kasia", "Ewa", "Olek"));
 
@@ -35,8 +35,13 @@ public class Main {
         listOfWords.sort((n,n2)-> n.compareTo(n2));
         listOfWords.forEach(n -> System.out.println(n));
 
+        System.out.println("-----------------------------------------------------------");
 
+        MyOwnInterface calculate = ((a, b) -> System.out.println(a+b));
+
+        calculate.addToNumbers(10,5);
     }
+
 
     //    ### Ćwiczenie 1 – Wypisywanie imion
     //1. Masz listę imion: Adam, Ewa, Kasia, Olek.
@@ -65,7 +70,10 @@ public class Main {
     //            3. Użyj metody sorted z lambdą (Comparator) lub compareTo.
     //            4. Wypisz posortowaną listę.
 
-
+    //### Ćwiczenie 5 – Własny interfejs funkcyjny
+    //1. Zdefiniuj interfejs z jedną metodą, np. calculate(int a, int b).
+    //            2. Stwórz lambdę implementującą ten interfejs, która dodaje dwie liczby.
+    //            3. Użyj lambdy do policzenia np. 5 + 3 i wypisz wynik.
 
 
 }
