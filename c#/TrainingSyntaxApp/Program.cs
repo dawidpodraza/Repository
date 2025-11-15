@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+
+NumberPrinter printer = new NumberPrinter();
+NumberFilter filter = new NumberFilter();
+
+List<int> listOfNumbers = [1, 2, 3, 4, 5, 6,12,46,89, 7, 8, 9, 10, 11,];
+
+List<int> nextList = [1, 2, 3,4, 5, 6, 7, 8, 9,10,11,]; 
+
+printer.printInfo(listOfNumbers, num => Console.WriteLine(num));
+Console.WriteLine("----------------------------------------");
+printer.printInfo(nextList, num => Console.WriteLine(num));
+
+List<int> newListOfFilteredNumbersFromNextList = filter.filterMethod(nextList, x => x % 2 == 0);
+
+
+printer.printInfo(newListOfFilteredNumbersFromNextList, num => Console.WriteLine("Prazefiltrowana liczba " + num));
+
+
+
+
+class NumberPrinter
+{
+    public void printInfo<T>(List<T> list, Action<T> action)
+    {
+        foreach (T num in list)
+        {
+            action(num);
+        }
+    }
+
+   
+}
+class NumberFilter
+{
+    public List<T> filterMethod<T>(List<T> list, Predicate<T> predicate)
+    {
+
+        var result = new List<T>();
+
+        foreach (T num in list)
+        {
+            if (predicate(num))
+            {
+                result.Add(num);
+            }
+        }
+        return result;
+
+    }
+
+  
+}

@@ -1,0 +1,9 @@
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.csproj.AssemblyReference.cache
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.Properties.Resources.resources
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.csproj.GenerateResource.cache
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\CyberpunkCalculator\bin\Debug\CyberpunkCalculator.exe.config
+C:\Users\podra\Repository\c#\CyberpunkCalculator\bin\Debug\CyberpunkCalculator.exe
+C:\Users\podra\Repository\c#\CyberpunkCalculator\bin\Debug\CyberpunkCalculator.pdb
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.exe
+C:\Users\podra\Repository\c#\CyberpunkCalculator\obj\Debug\CyberpunkCalculator.pdb

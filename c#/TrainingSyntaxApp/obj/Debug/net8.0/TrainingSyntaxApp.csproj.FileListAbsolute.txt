@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\bin\Debug\net8.0\TrainingSyntaxApp.exe
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\bin\Debug\net8.0\TrainingSyntaxApp.deps.json
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\bin\Debug\net8.0\TrainingSyntaxApp.runtimeconfig.json
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\bin\Debug\net8.0\TrainingSyntaxApp.dll
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\bin\Debug\net8.0\TrainingSyntaxApp.pdb
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.sourcelink.json
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.dll
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\refint\TrainingSyntaxApp.dll
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.pdb
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\TrainingSyntaxApp.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\TrainingSyntaxApp\obj\Debug\net8.0\ref\TrainingSyntaxApp.dll
