@@ -1,0 +1,31 @@
+Zadanie: System zarz¹dzania bibliotek¹
+
+Napisz program w C#, który pozwala zarz¹dzaæ ksi¹¿kami w bibliotece. Program powinien umo¿liwiaæ:
+
+1.Dodawanie ksi¹¿ek
+
+Ka¿da ksi¹¿ka ma: tytu³, autora, rok wydania, oraz numer ID (unikalny).
+
+2.Wyœwietlanie listy wszystkich ksi¹¿ek
+
+3.Wyszukiwanie ksi¹¿ki
+
+Mo¿liwoœæ wyszukania ksi¹¿ki po tytule lub autorze.
+
+4.Usuwanie ksi¹¿ki
+
+Mo¿liwoœæ usuniêcia ksi¹¿ki po numerze ID.
+
+5.Opcjonalnie:
+
+Sortowanie ksi¹¿ek po tytule lub roku wydania.
+
+Zapis listy ksi¹¿ek do pliku i odczyt z pliku przy uruchomieniu programu.
+
+Wskazówka:
+
+Mo¿esz u¿yæ listy (List<Book>) do przechowywania ksi¹¿ek.
+
+Stwórz klasê Book z w³aœciwoœciami: Id, Title, Author, Year.
+
+U¿yj prostego menu tekstowego w konsoli, aby u¿ytkownik móg³ wybieraæ opcje.
