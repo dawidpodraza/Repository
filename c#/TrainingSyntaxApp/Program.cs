@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
+using System.Numerics;
 
 
 NumberPrinter printer = new NumberPrinter();
@@ -19,6 +21,10 @@ List<int> newListOfFilteredNumbersFromNextList = filter.filterMethod(nextList, x
 
 printer.printInfo(newListOfFilteredNumbersFromNextList, num => Console.WriteLine("Prazefiltrowana liczba " + num));
 
+
+List<double> randomList = NumberMixer.GenerateRandomNumbersList();
+System.Console.WriteLine("Wygenerowana lista: ");
+printer.printInfo(randomList,n => Console.WriteLine(n+" "));
 
 
 
@@ -53,4 +59,19 @@ class NumberFilter
     }
 
   
+}
+class NumberMixer
+{    public static List<double> GenerateRandomNumbersList()
+    {
+        List<double> newList = new List<double>();
+        Random random = new Random();
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                newList.Add(random.NextDouble());
+            }
+            
+        }
+        return newList;
+    }
 }
