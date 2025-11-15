@@ -1,5 +1,6 @@
 ﻿using BooksInLibrary;
 using System.Threading.Channels;
+using System.Xml.Serialization;
 
 namespace Library
 {
@@ -9,19 +10,13 @@ namespace Library
         {
             BookCollection library = new BookCollection();
 
-            library.booksCollection.Add(BookActions.addBook());
-            library.booksCollection.Add(BookActions.addBook());
-            library.booksCollection.Add(BookActions.addBook());
-
-            Console.WriteLine("------------------------------");
-            library.printInfo();
-            Console.WriteLine("------------------------------");
-            library.searchBook();
+            library.clientActionToDo();
         }
     }
 }
 namespace BooksInLibrary
 {
+
     class Book
     {
         private string _name;
@@ -65,9 +60,78 @@ namespace BooksInLibrary
             return Name + " " + Author;
         }
     }
-    class BookActions
+
+    class BookCollection
     {
-        public static Book addBook()
+        public List<Book> listOfBooks = new List<Book>();
+
+        public void clientActionToDo()
+        {
+            bool exit = false;
+
+            while (exit == false)
+            {
+                Console.WriteLine("Co chcesz zrobić ? \n1-dodaj książkę\n2-Szukaj książki\n3-Usuń książkę\n4-Pokaż zawartość księgarni\n5-koniec");
+                string choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "1":
+                        listOfBooks.Add(addBook());
+                        break;
+                    case "2":
+                        searchBook();
+                        break;
+                    case "3":
+                        removeBook();
+                        break;
+                    case "4":
+                        printInfo();
+                        break;
+                    case "5":
+                        Console.WriteLine("Do zobaczenia!");
+                        exit = true;
+                        break;
+                    default:
+                        Console.WriteLine("Zły wybór spróbuj ponownie");
+                        break;
+
+                }
+            }
+
+        }
+
+        private void printInfo()
+        {
+            foreach (var item in listOfBooks)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+
+        private void searchBook()
+        {
+            Console.WriteLine("Podaj tytuł książki której szukasz:");
+            string name = Console.ReadLine();
+            bool found = false;
+
+            foreach (var item in listOfBooks)
+            {
+                if (item.Name == name)
+                {
+                    Console.WriteLine("Podana książka jest dostępna");
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found)
+            {
+                Console.WriteLine($"Książka {name} nie jest dostępna");
+            }
+        }
+
+        private Book addBook()
         {
 
             Console.WriteLine("Podaj tytuł książki:");
@@ -82,41 +146,35 @@ namespace BooksInLibrary
             return new Book(bookname, authorName, yearOfRealase, ID);
 
         }
-    }
-    class BookCollection
-    {
-        public List<Book> booksCollection = new List<Book>();
 
-
-        public void printInfo()
+        private void removeBook()
         {
-            foreach (var item in booksCollection)
-            {
-                Console.WriteLine(item);
-            }
-        }
-
-        public void searchBook()
-        {
-            Console.WriteLine("Podaj tytuł książki ktrej szukasz:");
-            string name = Console.ReadLine();
+            Console.WriteLine("Podaj ID książki którą chcesz usunąć:");
+            int id = int.Parse(Console.ReadLine());
             bool found = false;
 
-            foreach(var item in booksCollection)
+            foreach (var item in listOfBooks)
             {
-                if(item.Name == name)
+                if (item.ID == id)
                 {
-                    Console.WriteLine("Podana książka jest dostępna");
+                    listOfBooks.Remove(item);
                     found = true;
+                    Console.WriteLine($"Usunięto książkę {item.Name}");
                     break;
                 }
-            }
 
+
+            }
             if (!found)
             {
-                Console.WriteLine($"Książka {name} nie jest dostępna");
+                Console.WriteLine("Nie ma takiej ksiązki w bibliotece");
             }
+
         }
     }
-
 }
+
+
+
+
+
