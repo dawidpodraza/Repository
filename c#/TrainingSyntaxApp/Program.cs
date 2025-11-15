@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Numerics;
+using MethodsForApp;
 
 
 NumberPrinter printer = new NumberPrinter();
 NumberFilter filter = new NumberFilter();
 
-List<int> listOfNumbers = [1, 2, 3, 4, 5, 6,12,46,89, 7, 8, 9, 10, 11,];
+List<int> listOfNumbers = [1, 2, 3, 4, 5, 6, 12, 46, 89, 7, 8, 9, 10, 11,];
 
-List<int> nextList = [1, 2, 3,4, 5, 6, 7, 8, 9,10,11,]; 
+List<int> nextList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,];
 
 printer.printInfo(listOfNumbers, num => Console.WriteLine(num));
 Console.WriteLine("----------------------------------------");
@@ -24,54 +25,57 @@ printer.printInfo(newListOfFilteredNumbersFromNextList, num => Console.WriteLine
 
 List<double> randomList = NumberMixer.GenerateRandomNumbersList();
 System.Console.WriteLine("Wygenerowana lista: ");
-printer.printInfo(randomList,n => Console.WriteLine(n+" "));
+printer.printInfo(randomList, n => Console.WriteLine(n + " "));
 
 
-
-class NumberPrinter
+namespace MethodsForApp
 {
-    public void printInfo<T>(List<T> list, Action<T> action)
+    class NumberPrinter
     {
-        foreach (T num in list)
+        public void printInfo<T>(List<T> list, Action<T> action)
         {
-            action(num);
-        }
-    }
-
-   
-}
-class NumberFilter
-{
-    public List<T> filterMethod<T>(List<T> list, Predicate<T> predicate)
-    {
-
-        var result = new List<T>();
-
-        foreach (T num in list)
-        {
-            if (predicate(num))
+            foreach (T num in list)
             {
-                result.Add(num);
+                action(num);
             }
         }
-        return result;
+
 
     }
-
-  
-}
-class NumberMixer
-{    public static List<double> GenerateRandomNumbersList()
+    class NumberFilter
     {
-        List<double> newList = new List<double>();
-        Random random = new Random();
+        public List<T> filterMethod<T>(List<T> list, Predicate<T> predicate)
         {
-            for (int i = 0; i < 10; i++)
+
+            var result = new List<T>();
+
+            foreach (T num in list)
             {
-                newList.Add(random.NextDouble());
+                if (predicate(num))
+                {
+                    result.Add(num);
+                }
             }
-            
+            return result;
+
         }
-        return newList;
+
+
+    }
+    class NumberMixer
+    {
+        public static List<double> GenerateRandomNumbersList()
+        {
+            List<double> newList = new List<double>();
+            Random random = new Random();
+            {
+                for (int i = 0; i < 10; i++)
+                {
+                    newList.Add(random.NextDouble());
+                }
+
+            }
+            return newList;
+        }
     }
 }

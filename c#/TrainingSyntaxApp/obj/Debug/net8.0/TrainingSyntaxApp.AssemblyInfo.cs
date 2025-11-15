@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainingSyntaxApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb7e64f02e0a450be392c79019c4f480297376e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695214c0958edb1787433a93e9a670b9848a1b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainingSyntaxApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainingSyntaxApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
