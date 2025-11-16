@@ -16,7 +16,6 @@ namespace Library
 }
 namespace BooksInLibrary
 {
-
     class Book
     {
         private string _name;
@@ -60,7 +59,6 @@ namespace BooksInLibrary
             return Name + " " + Author;
         }
     }
-
     class BookCollection
     {
         public List<Book> listOfBooks = new List<Book>();
@@ -71,7 +69,7 @@ namespace BooksInLibrary
 
             while (exit == false)
             {
-                Console.WriteLine("Co chcesz zrobić ? \n1-dodaj książkę\n2-Szukaj książki\n3-Usuń książkę\n4-Pokaż zawartość księgarni\n5-koniec");
+                Console.WriteLine("--------------------------\nCo chcesz zrobić ? \n1-dodaj książkę\n2-Szukaj książki\n3-Usuń książkę\n4-Pokaż zawartość księgarni\n5-koniec\n--------------------------");
                 string choice = Console.ReadLine();
                 switch (choice)
                 {
@@ -99,7 +97,7 @@ namespace BooksInLibrary
             }
 
         }
-
+    
         private void printInfo()
         {
             foreach (var item in listOfBooks)
@@ -173,8 +171,5 @@ namespace BooksInLibrary
         }
     }
 }
-
-
-
 
 
