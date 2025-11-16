@@ -3,6 +3,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
 import java.util.function.Consumer;
+import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
@@ -16,6 +17,10 @@ public class Main {
         System.out.println("\n");
         deleteDivideBy2Numbers(listOfNumbers,element -> element%2 ==0);
         printIfno(listOfNumbers,s-> System.out.print(s+" "));
+        System.out.println("\n------------------------");
+        List<String> newList = changeOneElementToOther(listOfNumbers,n->"$");
+        printIfno(newList,s-> System.out.print(s+" "));
+
 
     }
     public static <T> void genrateNumbers(List<T>list, int toGenerate, Supplier<T> sup){
@@ -41,5 +46,17 @@ public class Main {
         }
     }
 
-    // wykonać jeszcze przykład z interfacem funkcyjnym Function !!!
-}
+    public static <T,String> List<String> changeOneElementToOther(List<T> list, Function<T,String> function){
+            List<String> result = new ArrayList<>();
+
+        for(T item : list){
+            result.add(function.apply(item));
+            
+        }
+        return result;
+        }
+
+    }
+
+
+
