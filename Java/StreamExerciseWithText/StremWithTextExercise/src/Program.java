@@ -3,18 +3,24 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Program {
-    static void main(String[] args) throws IOException {
+    static void main(String[] args)  {
 
 
         String fileName = "text.txt";
-        BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName));
-
+        BufferedReader bufferedReader = null;
         List<String> listOfWorsFromTextFile = new ArrayList<>();
 
-        String nextLine = null;
-        while((nextLine = bufferedReader.readLine()) !=null){
-            listOfWorsFromTextFile.add(nextLine);
+        try {
+            bufferedReader = new BufferedReader(new FileReader(fileName));
+
+            String nextLine = null;
+            while((nextLine = bufferedReader.readLine()) !=null){
+                listOfWorsFromTextFile.add(nextLine);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
+
 
         System.out.println(listOfWorsFromTextFile);
 
