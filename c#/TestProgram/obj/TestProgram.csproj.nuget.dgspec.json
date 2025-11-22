@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\podra\\Repository\\c#\\TestProgram\\TestProgram.csproj": {}
+    "\\\\Mac\\Home\\Repository\\c#\\TestProgram\\TestProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\podra\\Repository\\c#\\TestProgram\\TestProgram.csproj": {
+    "\\\\Mac\\Home\\Repository\\c#\\TestProgram\\TestProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\podra\\Repository\\c#\\TestProgram\\TestProgram.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Repository\\c#\\TestProgram\\TestProgram.csproj",
         "projectName": "TestProgram",
-        "projectPath": "C:\\Users\\podra\\Repository\\c#\\TestProgram\\TestProgram.csproj",
-        "packagesPath": "C:\\Users\\podra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\podra\\Repository\\c#\\TestProgram\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Repository\\c#\\TestProgram\\TestProgram.csproj",
+        "packagesPath": "C:\\Users\\dawidpodraza\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Repository\\c#\\TestProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\podra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dawidpodraza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
