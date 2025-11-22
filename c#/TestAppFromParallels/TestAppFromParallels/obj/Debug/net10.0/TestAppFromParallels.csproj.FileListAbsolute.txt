@@ -1,0 +1,15 @@
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\bin\Debug\net10.0\TestAppFromParallels.exe
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\bin\Debug\net10.0\TestAppFromParallels.deps.json
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\bin\Debug\net10.0\TestAppFromParallels.runtimeconfig.json
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\bin\Debug\net10.0\TestAppFromParallels.dll
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\bin\Debug\net10.0\TestAppFromParallels.pdb
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.GeneratedMSBuildEditorConfig.editorconfig
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.AssemblyInfoInputs.cache
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.AssemblyInfo.cs
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.csproj.CoreCompileInputs.cache
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.sourcelink.json
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.dll
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\refint\TestAppFromParallels.dll
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.pdb
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\TestAppFromParallels.genruntimeconfig.cache
+\\psf\Home\Repository\c#\TestAppFromParallels\TestAppFromParallels\obj\Debug\net10.0\ref\TestAppFromParallels.dll
