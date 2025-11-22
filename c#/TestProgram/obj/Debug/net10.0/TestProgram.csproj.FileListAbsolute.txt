@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\TestProgram\bin\Debug\net10.0\TestProgram.exe
+C:\Users\podra\Repository\c#\TestProgram\bin\Debug\net10.0\TestProgram.deps.json
+C:\Users\podra\Repository\c#\TestProgram\bin\Debug\net10.0\TestProgram.runtimeconfig.json
+C:\Users\podra\Repository\c#\TestProgram\bin\Debug\net10.0\TestProgram.dll
+C:\Users\podra\Repository\c#\TestProgram\bin\Debug\net10.0\TestProgram.pdb
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.sourcelink.json
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.dll
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\refint\TestProgram.dll
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.pdb
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\TestProgram.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\TestProgram\obj\Debug\net10.0\ref\TestProgram.dll

@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\psf\\Home\\Repository\\c#\\TestAppFromParallels\\",
+  "WorkspaceRootPath": "C:\\Users\\podra\\Repository\\c#\\TestAppFromParallels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7D004AB-B3C9-4D3D-AB8F-9BA619C95161}|TestAppFromParallels\\TestAppFromParallels.csproj|\\\\psf\\home\\repository\\c#\\testappfromparallels\\testappfromparallels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\podra\\Repository\\c#\\TestAppFromParallels\\TestAppFromParallels\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestAppFromParallels\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "\\\\psf\\Home\\Repository\\c#\\TestAppFromParallels\\TestAppFromParallels\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\podra\\Repository\\c#\\TestAppFromParallels\\TestAppFromParallels\\Program.cs",
               "RelativeDocumentMoniker": "TestAppFromParallels\\Program.cs",
-              "ToolTip": "\\\\psf\\Home\\Repository\\c#\\TestAppFromParallels\\TestAppFromParallels\\Program.cs*",
-              "RelativeToolTip": "TestAppFromParallels\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\podra\\Repository\\c#\\TestAppFromParallels\\TestAppFromParallels\\Program.cs",
+              "RelativeToolTip": "TestAppFromParallels\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:47:11.07Z",
+              "WhenOpened": "2025-11-22T19:14:37.949Z",
               "EditorCaption": ""
             }
           ]
