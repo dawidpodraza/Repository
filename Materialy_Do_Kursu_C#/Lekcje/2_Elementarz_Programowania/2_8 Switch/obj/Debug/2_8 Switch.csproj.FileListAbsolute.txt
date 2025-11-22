@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\bin\Debug\2_8 Switch.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\bin\Debug\2_8 Switch.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\bin\Debug\2_8 Switch.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\obj\Debug\2_8 Switch.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\obj\Debug\2_8 Switch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\obj\Debug\2_8 Switch.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_8 Switch\obj\Debug\2_8 Switch.pdb

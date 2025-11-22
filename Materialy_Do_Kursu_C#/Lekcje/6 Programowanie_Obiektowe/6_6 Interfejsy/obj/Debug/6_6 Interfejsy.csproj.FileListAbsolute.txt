@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\bin\Debug\6_6 Interfejsy.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\bin\Debug\6_6 Interfejsy.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\bin\Debug\6_6 Interfejsy.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\obj\Debug\6_6 Interfejsy.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\obj\Debug\6_6 Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\obj\Debug\6_6 Interfejsy.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_6 Interfejsy\obj\Debug\6_6 Interfejsy.pdb

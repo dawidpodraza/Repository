@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\bin\Debug\3_4 Konstruktor.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\bin\Debug\3_4 Konstruktor.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\bin\Debug\3_4 Konstruktor.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\obj\Debug\3_4 Konstruktor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\obj\Debug\3_4 Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\obj\Debug\3_4 Konstruktor.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_4 Konstruktor\obj\Debug\3_4 Konstruktor.pdb

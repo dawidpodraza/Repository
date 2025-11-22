@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\bin\Debug\5_7 Delegaty_Praktyczny_Przyklad.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\bin\Debug\5_7 Delegaty_Praktyczny_Przyklad.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\bin\Debug\5_7 Delegaty_Praktyczny_Przyklad.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\obj\Debug\5_7 Delegaty_Praktyczny_Przyklad.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\obj\Debug\5_7 Delegaty_Praktyczny_Przyklad.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\obj\Debug\5_7 Delegaty_Praktyczny_Przyklad.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_7 Delegaty_Praktyczny_Przyklad\obj\Debug\5_7 Delegaty_Praktyczny_Przyklad.pdb

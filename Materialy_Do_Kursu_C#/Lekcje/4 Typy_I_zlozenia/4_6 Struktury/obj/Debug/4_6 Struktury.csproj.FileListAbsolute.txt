@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\bin\Debug\4_6 Struktury.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\bin\Debug\4_6 Struktury.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\bin\Debug\4_6 Struktury.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\obj\Debug\4_6 Struktury.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\obj\Debug\4_6 Struktury.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\obj\Debug\4_6 Struktury.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_6 Struktury\obj\Debug\4_6 Struktury.pdb

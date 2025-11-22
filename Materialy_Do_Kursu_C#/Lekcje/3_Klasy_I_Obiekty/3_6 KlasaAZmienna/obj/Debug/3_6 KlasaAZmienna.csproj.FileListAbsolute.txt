@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\bin\Debug\3_6 KlasaAZmienna.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\bin\Debug\3_6 KlasaAZmienna.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\bin\Debug\3_6 KlasaAZmienna.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\obj\Debug\3_6 KlasaAZmienna.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\obj\Debug\3_6 KlasaAZmienna.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\obj\Debug\3_6 KlasaAZmienna.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3_6 KlasaAZmienna\obj\Debug\3_6 KlasaAZmienna.pdb

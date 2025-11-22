@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\bin\Debug\4_9 Projekt.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\bin\Debug\4_9 Projekt.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\bin\Debug\4_9 Projekt.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\obj\Debug\4_9 Projekt.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\obj\Debug\4_9 Projekt.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_9 Projekt\obj\Debug\4_9 Projekt.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\bin\Debug\5_4 Pola_Wlasciwosci.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\bin\Debug\5_4 Pola_Wlasciwosci.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\bin\Debug\5_4 Pola_Wlasciwosci.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\obj\Debug\5_4 Pola_Wlasciwosci.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\obj\Debug\5_4 Pola_Wlasciwosci.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\obj\Debug\5_4 Pola_Wlasciwosci.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_4 Pola_Wlasciwosci\obj\Debug\5_4 Pola_Wlasciwosci.pdb

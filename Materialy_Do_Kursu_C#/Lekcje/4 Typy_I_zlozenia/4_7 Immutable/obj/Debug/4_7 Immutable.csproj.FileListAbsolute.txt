@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\bin\Debug\4_7 Immutable.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\bin\Debug\4_7 Immutable.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\bin\Debug\4_7 Immutable.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\obj\Debug\4_7 Immutable.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\obj\Debug\4_7 Immutable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\obj\Debug\4_7 Immutable.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_7 Immutable\obj\Debug\4_7 Immutable.pdb

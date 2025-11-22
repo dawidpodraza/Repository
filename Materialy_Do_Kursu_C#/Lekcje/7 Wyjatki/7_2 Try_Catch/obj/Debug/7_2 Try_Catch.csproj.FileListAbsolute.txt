@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\bin\Debug\7_2 Try_Catch.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\bin\Debug\7_2 Try_Catch.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\bin\Debug\7_2 Try_Catch.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\obj\Debug\7_2 Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\obj\Debug\7_2 Try_Catch.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\obj\Debug\7_2 Try_Catch.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_2 Try_Catch\obj\Debug\7_2 Try_Catch.csprojResolveAssemblyReference.cache

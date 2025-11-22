@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\bin\Debug\4_4 Parametry metody.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\bin\Debug\4_4 Parametry metody.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\bin\Debug\4_4 Parametry metody.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\obj\Debug\4_4 Parametry metody.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\obj\Debug\4_4 Parametry metody.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\obj\Debug\4_4 Parametry metody.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_4 Parametry metody\obj\Debug\4_4 Parametry metody.pdb

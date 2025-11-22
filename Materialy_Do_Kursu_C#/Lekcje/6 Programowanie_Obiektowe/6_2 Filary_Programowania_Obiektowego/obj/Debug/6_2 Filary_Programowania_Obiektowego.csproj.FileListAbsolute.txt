@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\bin\Debug\6_2 Filary_Programowania_Obiektowego.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\bin\Debug\6_2 Filary_Programowania_Obiektowego.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\bin\Debug\6_2 Filary_Programowania_Obiektowego.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\obj\Debug\6_2 Filary_Programowania_Obiektowego.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\obj\Debug\6_2 Filary_Programowania_Obiektowego.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\obj\Debug\6_2 Filary_Programowania_Obiektowego.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_2 Filary_Programowania_Obiektowego\obj\Debug\6_2 Filary_Programowania_Obiektowego.pdb

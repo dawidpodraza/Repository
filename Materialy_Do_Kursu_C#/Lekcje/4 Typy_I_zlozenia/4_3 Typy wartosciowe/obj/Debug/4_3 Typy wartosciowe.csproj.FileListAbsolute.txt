@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\bin\Debug\4_3 Typy wartosciowe.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\bin\Debug\4_3 Typy wartosciowe.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\bin\Debug\4_3 Typy wartosciowe.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\obj\Debug\4_3 Typy wartosciowe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\obj\Debug\4_3 Typy wartosciowe.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\obj\Debug\4_3 Typy wartosciowe.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_3 Typy wartosciowe\obj\Debug\4_3 Typy wartosciowe.pdb

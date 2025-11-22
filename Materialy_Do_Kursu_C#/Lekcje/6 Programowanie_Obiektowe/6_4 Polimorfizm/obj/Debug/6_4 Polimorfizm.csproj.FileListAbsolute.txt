@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\bin\Debug\6_4 Polimorfizm.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\bin\Debug\6_4 Polimorfizm.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\bin\Debug\6_4 Polimorfizm.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\obj\Debug\6_4 Polimorfizm.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\obj\Debug\6_4 Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\obj\Debug\6_4 Polimorfizm.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_4 Polimorfizm\obj\Debug\6_4 Polimorfizm.pdb

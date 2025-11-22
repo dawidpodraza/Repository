@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\bin\Debug\2_13 Enum.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\bin\Debug\2_13 Enum.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\bin\Debug\2_13 Enum.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\obj\Debug\2_13 Enum.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\obj\Debug\2_13 Enum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\obj\Debug\2_13 Enum.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_13 Enum\obj\Debug\2_13 Enum.pdb

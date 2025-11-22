@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\bin\Debug\1_9 PierwszyProgramVS.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\bin\Debug\1_9 PierwszyProgramVS.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\bin\Debug\1_9 PierwszyProgramVS.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\obj\Debug\1_9 PierwszyProgramVS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\obj\Debug\1_9 PierwszyProgramVS.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\obj\Debug\1_9 PierwszyProgramVS.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\1_Wprowadzenie _do_C#\1_9 PierwszyProgramVS\obj\Debug\1_9 PierwszyProgramVS.csprojResolveAssemblyReference.cache

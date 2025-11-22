@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\bin\Debug\2_7 If.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\bin\Debug\2_7 If.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\bin\Debug\2_7 If.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\obj\Debug\2_7 If.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\obj\Debug\2_7 If.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\obj\Debug\2_7 If.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_7 If\obj\Debug\2_7 If.pdb

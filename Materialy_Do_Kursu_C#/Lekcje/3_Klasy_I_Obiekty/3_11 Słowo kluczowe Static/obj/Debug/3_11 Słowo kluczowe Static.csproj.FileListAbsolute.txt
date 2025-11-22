@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\bin\Debug\3_11 Słowo kluczowe Static.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\bin\Debug\3_11 Słowo kluczowe Static.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\bin\Debug\3_11 Słowo kluczowe Static.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\obj\Debug\3_11 Słowo kluczowe Static.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\obj\Debug\3_11 Słowo kluczowe Static.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\obj\Debug\3_11 Słowo kluczowe Static.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\Wszystkie\3_11 Słowo kluczowe Static\obj\Debug\3_11 Słowo kluczowe Static.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\bin\Debug\2_11 Kolekcje.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\bin\Debug\2_11 Kolekcje.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\bin\Debug\2_11 Kolekcje.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\obj\Debug\2_11 Kolekcje.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\obj\Debug\2_11 Kolekcje.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\obj\Debug\2_11 Kolekcje.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_11 Kolekcje\obj\Debug\2_11 Kolekcje.pdb

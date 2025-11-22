@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\obj\Debug\3 KartaOcenFilmow.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\obj\Debug\3 KartaOcenFilmow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\bin\Debug\3 KartaOcenFilmow.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\bin\Debug\3 KartaOcenFilmow.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\bin\Debug\3 KartaOcenFilmow.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\obj\Debug\3 KartaOcenFilmow.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\3_Klasy_I_Obiekty\3 KartaOcenFilmow\obj\Debug\3 KartaOcenFilmow.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\bin\Debug\7_3 Lancuch_Wyjatkow.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\bin\Debug\7_3 Lancuch_Wyjatkow.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\bin\Debug\7_3 Lancuch_Wyjatkow.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\obj\Debug\7_3 Lancuch_Wyjatkow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\obj\Debug\7_3 Lancuch_Wyjatkow.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\obj\Debug\7_3 Lancuch_Wyjatkow.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_3 Lancuch_Wyjatkow\obj\Debug\7_3 Lancuch_Wyjatkow.csprojResolveAssemblyReference.cache

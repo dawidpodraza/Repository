@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\bin\Debug\2_5 Operatory.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\bin\Debug\2_5 Operatory.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\bin\Debug\2_5 Operatory.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\obj\Debug\2_5 Operatory.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\obj\Debug\2_5 Operatory.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\obj\Debug\2_5 Operatory.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_5 Operatory\obj\Debug\2_5 Operatory.pdb

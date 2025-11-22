@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\bin\Debug\2_12 Kolekcje_Lista.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\bin\Debug\2_12 Kolekcje_Lista.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\bin\Debug\2_12 Kolekcje_Lista.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\obj\Debug\2_12 Kolekcje_Lista.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\obj\Debug\2_12 Kolekcje_Lista.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\obj\Debug\2_12 Kolekcje_Lista.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_12 Kolekcje_Lista\obj\Debug\2_12 Kolekcje_Lista.csprojResolveAssemblyReference.cache

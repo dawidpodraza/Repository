@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\bin\Debug\2_1 Zmienne.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\bin\Debug\2_1 Zmienne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\bin\Debug\2_1 Zmienne.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\obj\Debug\2_1 Zmienne.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\obj\Debug\2_1 Zmienne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_1 Zmienne\obj\Debug\2_1 Zmienne.pdb

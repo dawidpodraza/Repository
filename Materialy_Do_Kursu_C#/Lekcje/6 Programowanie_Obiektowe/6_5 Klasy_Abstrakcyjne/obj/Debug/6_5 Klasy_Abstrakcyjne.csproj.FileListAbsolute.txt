@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\bin\Debug\6_5 Klasy_Abstrakcyjne.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\bin\Debug\6_5 Klasy_Abstrakcyjne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\bin\Debug\6_5 Klasy_Abstrakcyjne.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\obj\Debug\6_5 Klasy_Abstrakcyjne.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\obj\Debug\6_5 Klasy_Abstrakcyjne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\obj\Debug\6_5 Klasy_Abstrakcyjne.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_5 Klasy_Abstrakcyjne\obj\Debug\6_5 Klasy_Abstrakcyjne.csprojResolveAssemblyReference.cache

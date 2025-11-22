@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\bin\Debug\2_10 InstrukcjeSkoku.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\bin\Debug\2_10 InstrukcjeSkoku.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\bin\Debug\2_10 InstrukcjeSkoku.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\obj\Debug\2_10 InstrukcjeSkoku.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\obj\Debug\2_10 InstrukcjeSkoku.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\obj\Debug\2_10 InstrukcjeSkoku.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\2_Elementarz_Programowania\2_10 InstrukcjeSkoku\obj\Debug\2_10 InstrukcjeSkoku.csprojResolveAssemblyReference.cache

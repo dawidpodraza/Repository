@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 KartaOcenFilmow", "3 KartaOcenFilmow.csproj", "{CD189D50-5EFD-4C3C-9BF8-752CCB2776EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD189D50-5EFD-4C3C-9BF8-752CCB2776EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD189D50-5EFD-4C3C-9BF8-752CCB2776EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD189D50-5EFD-4C3C-9BF8-752CCB2776EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD189D50-5EFD-4C3C-9BF8-752CCB2776EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5673857C-2642-4700-9D70-080199286D6D}
+	EndGlobalSection
+EndGlobal

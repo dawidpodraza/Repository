@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\bin\Debug\4_2 Typy referencyjne.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\bin\Debug\4_2 Typy referencyjne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\bin\Debug\4_2 Typy referencyjne.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\obj\Debug\4_2 Typy referencyjne.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\obj\Debug\4_2 Typy referencyjne.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\obj\Debug\4_2 Typy referencyjne.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_2 Typy referencyjne\obj\Debug\4_2 Typy referencyjne.pdb

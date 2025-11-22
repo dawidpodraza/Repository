@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\bin\Debug\7_4 Finally.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\bin\Debug\7_4 Finally.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\bin\Debug\7_4 Finally.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\obj\Debug\7_4 Finally.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\obj\Debug\7_4 Finally.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\obj\Debug\7_4 Finally.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_4 Finally\obj\Debug\7_4 Finally.pdb

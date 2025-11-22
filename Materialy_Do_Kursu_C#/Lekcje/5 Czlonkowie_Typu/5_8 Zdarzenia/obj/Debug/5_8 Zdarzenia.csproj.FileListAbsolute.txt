@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\bin\Debug\5_8 Zdarzenia.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\bin\Debug\5_8 Zdarzenia.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\bin\Debug\5_8 Zdarzenia.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\obj\Debug\5_8 Zdarzenia.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\obj\Debug\5_8 Zdarzenia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\obj\Debug\5_8 Zdarzenia.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_8 Zdarzenia\obj\Debug\5_8 Zdarzenia.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\bin\Debug\5_6 Delegaty.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\bin\Debug\5_6 Delegaty.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\bin\Debug\5_6 Delegaty.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\obj\Debug\5_6 Delegaty.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\obj\Debug\5_6 Delegaty.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\obj\Debug\5_6 Delegaty.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_6 Delegaty\obj\Debug\5_6 Delegaty.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\bin\Debug\4_5 Parametry metody Ref Out.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\bin\Debug\4_5 Parametry metody Ref Out.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\bin\Debug\4_5 Parametry metody Ref Out.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\obj\Debug\4_5 Parametry metody Ref Out.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\obj\Debug\4_5 Parametry metody Ref Out.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\obj\Debug\4_5 Parametry metody Ref Out.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\4 Typy_I_zlozenia\4_5 Parametry metody Ref Out\obj\Debug\4_5 Parametry metody Ref Out.pdb

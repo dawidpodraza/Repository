@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\obj\Debug\7_1 Throw.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\obj\Debug\7_1 Throw.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\bin\Debug\7_1 Throw.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\bin\Debug\7_1 Throw.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\bin\Debug\7_1 Throw.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\obj\Debug\7_1 Throw.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\7 Wyjatki\7_1 Throw\obj\Debug\7_1 Throw.pdb

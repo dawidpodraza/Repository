@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\bin\Debug\6_3 Dziedziczenie.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\bin\Debug\6_3 Dziedziczenie.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\bin\Debug\6_3 Dziedziczenie.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\obj\Debug\6_3 Dziedziczenie.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\obj\Debug\6_3 Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\obj\Debug\6_3 Dziedziczenie.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\6 Programowanie_Obiektowe\6_3 Dziedziczenie\obj\Debug\6_3 Dziedziczenie.pdb

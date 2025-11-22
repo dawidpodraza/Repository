@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\bin\Debug\5_2 Metody.exe.config
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\bin\Debug\5_2 Metody.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\bin\Debug\5_2 Metody.pdb
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\obj\Debug\5_2 Metody.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\obj\Debug\5_2 Metody.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\obj\Debug\5_2 Metody.exe
+C:\Users\admin\Documents\StrefaKursow\C#\PlikiZrodlowe\5 CzlonkowieTypu\5_2 Metody\obj\Debug\5_2 Metody.pdb
