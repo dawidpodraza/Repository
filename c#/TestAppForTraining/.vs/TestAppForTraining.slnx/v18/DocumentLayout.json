@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\",
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Person.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Person.cs",
+              "ToolTip": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Person.cs",
               "RelativeToolTip": "Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Interface1.cs",
-              "DocumentMoniker": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Interface1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Interface1.cs",
               "RelativeDocumentMoniker": "Interface1.cs",
-              "ToolTip": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Interface1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Interface1.cs",
               "RelativeToolTip": "Interface1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CompanyBase.cs",
-              "DocumentMoniker": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs",
               "RelativeDocumentMoniker": "CompanyBase.cs",
-              "ToolTip": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs",
+              "ToolTip": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\CompanyBase.cs",
               "RelativeToolTip": "CompanyBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\podra\\Repository\\c#\\TestAppForTraining\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Repository\\c#\\TestAppForTraining\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

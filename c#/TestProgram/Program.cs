@@ -10,6 +10,7 @@
             int second = int.Parse(Console.ReadLine());
             int sum = first + second;
             Console.WriteLine("Suma liczb "+first+", "+second+" wynosi "+sum);
+            Console.ReadLine();
 
 
         }
