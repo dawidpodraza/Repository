@@ -12,7 +12,7 @@
             Console.WriteLine("Suma liczb "+first+", "+second+" wynosi "+sum);
             Console.ReadLine();
             //test comment
-            //test comment 2
+            //test comment 2 
             //test comment 3
 
         }
