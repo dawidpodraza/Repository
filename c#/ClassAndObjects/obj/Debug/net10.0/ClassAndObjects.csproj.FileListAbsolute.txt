@@ -1,0 +1,15 @@
+\\psf\Home\Repository\c#\ClassAndObjects\bin\Debug\net10.0\ClassAndObjects.exe
+\\psf\Home\Repository\c#\ClassAndObjects\bin\Debug\net10.0\ClassAndObjects.deps.json
+\\psf\Home\Repository\c#\ClassAndObjects\bin\Debug\net10.0\ClassAndObjects.runtimeconfig.json
+\\psf\Home\Repository\c#\ClassAndObjects\bin\Debug\net10.0\ClassAndObjects.dll
+\\psf\Home\Repository\c#\ClassAndObjects\bin\Debug\net10.0\ClassAndObjects.pdb
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.AssemblyInfoInputs.cache
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.AssemblyInfo.cs
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.csproj.CoreCompileInputs.cache
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.sourcelink.json
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.dll
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\refint\ClassAndObjects.dll
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.pdb
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ClassAndObjects.genruntimeconfig.cache
+\\psf\Home\Repository\c#\ClassAndObjects\obj\Debug\net10.0\ref\ClassAndObjects.dll
