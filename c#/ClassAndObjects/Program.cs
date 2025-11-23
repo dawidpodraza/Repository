@@ -3,7 +3,7 @@ namespace ClassAndObjects
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Person> listOfPersons = new List<Person>();
             listOfPersons.Add(new Person("Dawid", "Podraza", 45));
@@ -21,41 +21,39 @@ namespace ClassAndObjects
 
         internal class Person
         {
-            public string firstName { get; set; }
-            public string lastName { get; set; }
-            public int age { get; set; }
+            public string FirstName { get; }
+            public string LastName { get; }
+            public int Age { get; }
 
 
 
 
             public Person(string firstName, string lastName, int age)
             {
-                this.firstName = firstName;
-                this.lastName = lastName;
-                this.age = age;
+                this.FirstName = firstName;
+                this.LastName = lastName;
+                this.Age = age;
             }
-
-            public Person()
-            {
-            }
+            
 
             public override bool Equals(object? obj)
             {
                 return obj is Person person &&
-                       firstName == person.firstName &&
-                       lastName == person.lastName &&
-                       age == person.age;
+                       FirstName == person.FirstName &&
+                       LastName == person.LastName &&
+                       Age == person.Age;
             }
 
             public override int GetHashCode()
             {
-                return HashCode.Combine(firstName, lastName, age);
+                return HashCode.Combine(FirstName, LastName, Age);
             }
 
-            public override string? ToString()
+            public override string ToString()
             {
-                return firstName+" "+lastName;
+                return FirstName+" "+LastName;
             }
+            
         }
     }
 }
