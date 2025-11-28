@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Program {
     static void main(String[] args)  {
@@ -31,18 +32,17 @@ public class Program {
         System.out.println(listOfWorsFromTextFile);
 
         long numbersOfWordsWithS = listOfWorsFromTextFile.stream()
-                .flatMap(line -> List.of(line.split("\\s+")).stream()) // tego nie rozumiem !!
+                .flatMap(x->Stream.of(x.split("\\s+"))) // do przećwiczenia i regex też
                 .filter(x->x.toLowerCase().startsWith("s"))
                 .count();
 
         long numberOfWordWith5Letters = listOfWorsFromTextFile.stream()
-                .flatMap(line -> List.of(line.split("\\s+")).stream()) // tego nie rozumiem !!
+                .flatMap(x -> Stream.of(x.split("\\s+"))) // do przećwiczenia i regex też
                 .filter(word -> word.length() == 5)
                 .count();
 
         System.out.println("Liczba wyrazów na \"s\" :"+numbersOfWordsWithS);
         System.out.println("Liczba wyrazów z 5 literami :"+numberOfWordWith5Letters);
-
 
     }
 
