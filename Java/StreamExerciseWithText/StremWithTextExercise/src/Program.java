@@ -44,6 +44,9 @@ public class Program {
         System.out.println("Liczba wyrazów na \"s\" :"+numbersOfWordsWithS);
         System.out.println("Liczba wyrazów z 5 literami :"+numberOfWordWith5Letters);
 
+        System.out.println(numbersOfWordsWithS);
+        System.out.println(numberOfWordWith5Letters);
+
     }
 
 
