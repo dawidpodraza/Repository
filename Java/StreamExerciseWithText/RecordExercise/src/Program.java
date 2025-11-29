@@ -16,6 +16,8 @@ public class Program {
         //Odnaleziony pomiar:
         //Minimalna temperatura dnia 2022-11-22 wynosiła -16.50°C, a maksymalna -11.22°
 
+        // skopiować aplikacje i przerobic na odczyt za pomocą biblioteki OpenCSV
+
 
         String filePath = "weather.csv";
         List<WeatherData> lines = new ArrayList<>();
