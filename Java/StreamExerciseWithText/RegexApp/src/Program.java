@@ -3,7 +3,7 @@ public class Program {
 
         String email = "podrazad@gmail.com";
 
-        String regex = "(\\w+)@(\\w+)\\.com";
+        String regex = "([a-z0-9]+)@([a-z0-9]+)\\.com";
 
         boolean matches = email.matches(regex);
 
