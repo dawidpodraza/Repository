@@ -24,8 +24,6 @@ public class Logic {
         }
         askWhatToDoNext();
 
-
-
     }
 
     private void askWhatToDoNext(){
@@ -38,4 +36,5 @@ public class Logic {
             case "2" -> System.exit(0);
         }
     }
+
 }
