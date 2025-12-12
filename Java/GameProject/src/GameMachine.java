@@ -17,21 +17,23 @@ public class GameMachine {
     }
 
     public void buyGame(Game game , double money){
-        if(listOfGames.contains(game) && money == game.getPrice()){
-            System.out.println("Zakupiłeś grę :"+game.getTitle());
-            System.out.println("Cena :"+game.getPrice());
-            System.out.println("Reszta "+ (money - game.getPrice()));
-        }else if(listOfGames.contains(game) && money > game.getPrice()){
-            System.out.println("Zakupiłeś grę :"+game.getTitle());
-            System.out.println("Cena :"+game.getPrice());
-            System.out.println("Reszta "+ (money - game.getPrice()));
-        }else if (listOfGames.contains(game) && money < game.getPrice()){
-            System.out.println("Brak pieniędzy");
-            System.out.println("Cena :"+game.getPrice());
-            System.out.println("Twoje pieniądze :" +money);
-        }else{
-            System.out.println("Nie ma takiej gry");
-        }
+
+        
+//        if(listOfGames.contains(game) && money == game.getPrice()){
+//            System.out.println("Zakupiłeś grę :"+game.getTitle());
+//            System.out.println("Cena :"+game.getPrice());
+//            System.out.println("Reszta "+ (money - game.getPrice()));
+//        }else if(listOfGames.contains(game) && money > game.getPrice()){
+//            System.out.println("Zakupiłeś grę :"+game.getTitle());
+//            System.out.println("Cena :"+game.getPrice());
+//            System.out.println("Reszta "+ (money - game.getPrice()));
+//        }else if (listOfGames.contains(game) && money < game.getPrice()){
+//            System.out.println("Brak pieniędzy");
+//            System.out.println("Cena :"+game.getPrice());
+//            System.out.println("Twoje pieniądze :" +money);
+//        }else{
+//            System.out.println("Nie ma takiej gry");
+//        }
     }
     public Game checkInList(String title) {
         boolean check = false;
