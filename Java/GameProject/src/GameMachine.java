@@ -1,40 +1,43 @@
-import java.util.ArrayList;
 import java.util.List;
+import java.util.ArrayList;
+
+import static com.sun.org.apache.xalan.internal.xsltc.compiler.Constants.RESET;
+import static java.awt.Color.RED;
+
 
 public class GameMachine {
-    private List<Game> listOfGames;
+    public List<Game> listOfGames;
 
     public GameMachine() {
         this.listOfGames = new ArrayList<>();
     }
 
-    public void addGame(Game game){
+    public void addGame(Game game) {
         listOfGames.add(game);
     }
 
-    public List<Game> getListOfGames(){
+    public List<Game> getListOfGames() {
         return listOfGames;
     }
 
-    public void buyGame(Game game , double money){
+    public void buyGame(Game game, double money) {
+        try {
+            if (!listOfGames.contains(game)) {
+                throw new GameNotFoundException("Nie ma takiej gry");
+            }else if (listOfGames.contains(game) && money < game.getPrice()) {
+                throw new NotEnoughMoneyException("Nie masz wystarczająco pieniędzy");
+            }else{
+                System.out.println("Zakupiłeś grę :" + game.getTitle());
+                System.out.println("Cena :" + game.getPrice());
+                System.out.println("Reszta " + (money - game.getPrice()));
+            }
 
-        
-//        if(listOfGames.contains(game) && money == game.getPrice()){
-//            System.out.println("Zakupiłeś grę :"+game.getTitle());
-//            System.out.println("Cena :"+game.getPrice());
-//            System.out.println("Reszta "+ (money - game.getPrice()));
-//        }else if(listOfGames.contains(game) && money > game.getPrice()){
-//            System.out.println("Zakupiłeś grę :"+game.getTitle());
-//            System.out.println("Cena :"+game.getPrice());
-//            System.out.println("Reszta "+ (money - game.getPrice()));
-//        }else if (listOfGames.contains(game) && money < game.getPrice()){
-//            System.out.println("Brak pieniędzy");
-//            System.out.println("Cena :"+game.getPrice());
-//            System.out.println("Twoje pieniądze :" +money);
-//        }else{
-//            System.out.println("Nie ma takiej gry");
-//        }
+        }catch (GameNotFoundException | NotEnoughMoneyException e){
+            System.out.println(e.getMessage());
+        }
+
     }
+
     public Game checkInList(String title) {
         boolean check = false;
         Game game = null;
@@ -44,4 +47,9 @@ public class GameMachine {
         }
         return game;
     }
+
 }
+
+
+
+
