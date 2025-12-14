@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\KartaOcenFilmow\bin\Debug\net10.0\KartaOcenFilmow.exe
+C:\Users\podra\Repository\c#\KartaOcenFilmow\bin\Debug\net10.0\KartaOcenFilmow.deps.json
+C:\Users\podra\Repository\c#\KartaOcenFilmow\bin\Debug\net10.0\KartaOcenFilmow.runtimeconfig.json
+C:\Users\podra\Repository\c#\KartaOcenFilmow\bin\Debug\net10.0\KartaOcenFilmow.dll
+C:\Users\podra\Repository\c#\KartaOcenFilmow\bin\Debug\net10.0\KartaOcenFilmow.pdb
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.sourcelink.json
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.dll
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\refint\KartaOcenFilmow.dll
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.pdb
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\KartaOcenFilmow.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\KartaOcenFilmow\obj\Debug\net10.0\ref\KartaOcenFilmow.dll

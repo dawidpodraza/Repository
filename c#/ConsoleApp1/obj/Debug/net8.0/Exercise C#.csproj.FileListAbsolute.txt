@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\ConsoleApp1\bin\Debug\net8.0\Exercise C#.exe
+C:\Users\podra\Repository\c#\ConsoleApp1\bin\Debug\net8.0\Exercise C#.deps.json
+C:\Users\podra\Repository\c#\ConsoleApp1\bin\Debug\net8.0\Exercise C#.runtimeconfig.json
+C:\Users\podra\Repository\c#\ConsoleApp1\bin\Debug\net8.0\Exercise C#.dll
+C:\Users\podra\Repository\c#\ConsoleApp1\bin\Debug\net8.0\Exercise C#.pdb
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.sourcelink.json
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.dll
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\refint\Exercise C#.dll
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.pdb
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\Exercise C#.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\ConsoleApp1\obj\Debug\net8.0\ref\Exercise C#.dll
