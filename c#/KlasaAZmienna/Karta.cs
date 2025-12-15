@@ -2,17 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace KartaOcenFilmow
+namespace KlasaAZmienna
 {
     class Karta
     {
 
-        public Karta()
-        {
-            new List<float>();
-        }
+        
         //pola
-        List<float> oceny;
+        List<float> oceny = new List<float>();
 
         
 

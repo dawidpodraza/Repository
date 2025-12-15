@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\KlasaAZmienna\bin\Debug\net10.0\KlasaAZmienna.exe
+C:\Users\podra\Repository\c#\KlasaAZmienna\bin\Debug\net10.0\KlasaAZmienna.deps.json
+C:\Users\podra\Repository\c#\KlasaAZmienna\bin\Debug\net10.0\KlasaAZmienna.runtimeconfig.json
+C:\Users\podra\Repository\c#\KlasaAZmienna\bin\Debug\net10.0\KlasaAZmienna.dll
+C:\Users\podra\Repository\c#\KlasaAZmienna\bin\Debug\net10.0\KlasaAZmienna.pdb
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.sourcelink.json
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.dll
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\refint\KlasaAZmienna.dll
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.pdb
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\KlasaAZmienna.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\KlasaAZmienna\obj\Debug\net10.0\ref\KlasaAZmienna.dll

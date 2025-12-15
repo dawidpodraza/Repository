@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\Konstruktor\bin\Debug\net10.0\Konstruktor.exe
+C:\Users\podra\Repository\c#\Konstruktor\bin\Debug\net10.0\Konstruktor.deps.json
+C:\Users\podra\Repository\c#\Konstruktor\bin\Debug\net10.0\Konstruktor.runtimeconfig.json
+C:\Users\podra\Repository\c#\Konstruktor\bin\Debug\net10.0\Konstruktor.dll
+C:\Users\podra\Repository\c#\Konstruktor\bin\Debug\net10.0\Konstruktor.pdb
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.sourcelink.json
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.dll
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\refint\Konstruktor.dll
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.pdb
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\Konstruktor.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\Konstruktor\obj\Debug\net10.0\ref\Konstruktor.dll

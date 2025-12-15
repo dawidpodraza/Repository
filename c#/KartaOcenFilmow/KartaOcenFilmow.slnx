@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../KlasaAZmienna/KlasaAZmienna.csproj" Id="2abe07b8-94d4-4521-96d1-accec44fa09b" />
+  <Project Path="../Konstruktor/Konstruktor.csproj" Id="553d70a0-efda-462a-a3f0-66501e24d298" />
   <Project Path="KartaOcenFilmow.csproj" />
 </Solution>
