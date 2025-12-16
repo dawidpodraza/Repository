@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konstruktor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+453968830bee9e964bf71483dffee8b21c774139")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5147e6596d16f5a3d1391d8846306b475f881584")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konstruktor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konstruktor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
