@@ -1,0 +1,15 @@
+C:\Users\podra\Repository\c#\BankApp\bin\Debug\net10.0\BankApp.exe
+C:\Users\podra\Repository\c#\BankApp\bin\Debug\net10.0\BankApp.deps.json
+C:\Users\podra\Repository\c#\BankApp\bin\Debug\net10.0\BankApp.runtimeconfig.json
+C:\Users\podra\Repository\c#\BankApp\bin\Debug\net10.0\BankApp.dll
+C:\Users\podra\Repository\c#\BankApp\bin\Debug\net10.0\BankApp.pdb
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfo.cs
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.sourcelink.json
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.dll
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\refint\BankApp.dll
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.pdb
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\BankApp.genruntimeconfig.cache
+C:\Users\podra\Repository\c#\BankApp\obj\Debug\net10.0\ref\BankApp.dll
