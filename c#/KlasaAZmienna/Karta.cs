@@ -7,12 +7,9 @@ namespace KlasaAZmienna
     class Karta
     {
 
-        
+
         //pola
         List<float> oceny = new List<float>();
-
-        
-
 
 
         //metody
@@ -84,6 +81,6 @@ namespace KlasaAZmienna
             return oceny.Max();
         }
 
-       
+
     }
 }
