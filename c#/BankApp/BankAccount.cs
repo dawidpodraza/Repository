@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BankApp
 {
-    internal class BankAccount
+    public class BankAccount
     {
         private string _ownerName;
         private decimal _balance;
