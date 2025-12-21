@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\podra\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj": {}
+    "C:\\Users\\Dawid\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\podra\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj": {
+    "C:\\Users\\Dawid\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\podra\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj",
+        "projectUniqueName": "C:\\Users\\Dawid\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj",
         "projectName": "Exercise C#",
-        "projectPath": "C:\\Users\\podra\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj",
-        "packagesPath": "C:\\Users\\podra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\podra\\Repository\\c#\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Dawid\\Repository\\c#\\ConsoleApp1\\Exercise C#.csproj",
+        "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dawid\\Repository\\c#\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\podra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
