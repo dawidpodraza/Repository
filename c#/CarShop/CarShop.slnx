@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CarShop/CarShop.csproj" />
+  <Project Path="UnitTest/UnitTest.csproj" Id="32cb133e-23bf-4fdd-bf6a-9857d2dcbc93" />
+</Solution>
