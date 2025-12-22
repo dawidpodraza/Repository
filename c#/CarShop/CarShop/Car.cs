@@ -4,7 +4,7 @@
     {
         public string Model { get; }
         public string Brand { get; }
-        public decimal Price { get; }
+        public decimal Price { get; set; }
 
         public Car(string model, string brand, decimal price)
         {
@@ -26,9 +26,17 @@
             return HashCode.Combine(Model, Brand, Price);
         }
 
+     
+
         public override string ToString()
         {
             return $"{Brand} {Model} - {Price} zł";
+        }
+
+        public decimal ChangePrice(decimal newPrice)
+        {
+            Price = newPrice;
+            return Price;
         }
     }
 }
