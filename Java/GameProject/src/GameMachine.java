@@ -6,7 +6,7 @@ import static java.awt.Color.RED;
 
 
 public class GameMachine {
-    public List<Game> listOfGames;
+    private List<Game> listOfGames;
 
     public GameMachine() {
         this.listOfGames = new ArrayList<>();

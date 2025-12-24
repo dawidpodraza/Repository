@@ -1,7 +1,4 @@
-print("Hello World")
+number = int(input("Podaj jakąś liczbe : "))
 
-for i in range (10):
-    if (i%2==0):
-        print (i)
-
-        
+print(f"Liczba {number}  pomnozona x2")
+print((number)*2)
