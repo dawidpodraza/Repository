@@ -1,0 +1,3 @@
+Tekst to wygenerowania.
+Next line.
+And another.
