@@ -44,4 +44,23 @@ public class TeleBook {
         }
     }
 
+    public void searchContactByNumber(List<Contact> contacts, int number) {
+        boolean found = false;
+        Contact contact = null;
+        for (Contact contact1 : contacts) {
+
+            if (contact1.getNumber()==number) {
+                found = true;
+                contact = contact1;
+            }
+        }
+        if (found) {
+            System.out.println(contact.toString());
+        } else {
+            System.out.println("Contact not found");
+        }
+    }
+
+
+
 }
