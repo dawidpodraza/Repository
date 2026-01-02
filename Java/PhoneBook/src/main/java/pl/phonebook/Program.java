@@ -12,5 +12,4 @@ public class Program {
         teleBook.searchContactByNumber(teleBook.getContacts(),734453123);
 
     }
-    //Zrobic kolejna metode to wyszkuiwania po numerze telefonu i wydzielic metody do prostych czynnosci
 }
