@@ -19,12 +19,16 @@ public class TeleBook {
         return contacts;
     }
 
-    public void addContact(Contact contact) {
-        contacts.add(contact);
+    public void addContact(String name, int number) {
+        contacts.add(new Contact(name, number));
     }
 
-    public void removeContact(Contact contact) {
-        contacts.remove(contact);
+    public void removeContact(String name, int number) {
+        for (int i = 0; i < contacts.size(); i++) {
+            if (contacts.get(i).getName().equals(name) || contacts.get(i).getNumber() == number) {
+                contacts.remove(i);
+            }
+        }
     }
 
     public void searchContactByName(List<Contact> contacts, String name) {
